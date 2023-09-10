@@ -26,8 +26,8 @@
 
 The stock market is one of the most important ways for companies to raise money, along with debt markets, which are generally more imposing but do not trade publicly. This project aims to predict stock price movements by analyzing historical news headlines using Natural Language Processing (NLP). News headlines can provide valuable information about a company or industry and can give insight into the overall economic and political climate, which can affect stock prices.
 
-![Figure 1](https://imgur.com/a/MZ1SvWc)
-*Figure 1: Example Figure Caption*
+![Figure 1](https://imgur.com/YIxWpYJ)
+*Figure 1: Example of data*
 
 ### Data Exploration
 
